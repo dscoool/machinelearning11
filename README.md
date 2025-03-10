@@ -1,7 +1,6 @@
 # 11가지 핵심 예제로 파이썬 머신러닝 정복하기 
 
-## Chapter 1. 지도 학습 – 회귀
-### (Supervised Learning - Regression)
+## Chapter 1. 지도 학습 – 회귀 (Supervised Learning - Regression)
 
 ### 1-1. 키와 발 크기의 상관관계
 ### [[PPT]](https://docs.google.com/presentation/d/1eGJ7v2UiuA5Fe0j_TliRPLl72jZz61Fkzv64jJaKwJ4/edit?usp=sharing)
@@ -13,7 +12,7 @@
 [[Code]](https://github.com/dscoool/machinelearning11/blob/main/2.%EC%A0%84%EB%B3%B5_%EC%88%9C%EC%82%B4_%EB%AC%B4%EA%B2%8C_%EC%98%88%EC%B8%A1(%ED%95%99%EC%8A%B5%EC%A7%80).ipynb)
 [[Data]](https://github.com/dscoool/machinelearning11/tree/main/01_02.%20%EC%A0%84%EB%B3%B5%20%EC%88%9C%EC%82%B4%20%EB%AC%B4%EA%B2%8C%20%EC%98%88%EC%B8%A1%20%EB%8D%B0%EC%9D%B4%ED%84%B0)
 
-## Chapter 2. 지도 학습 – 분류
+## Chapter 2. 지도 학습 – 분류 (Supervised Learning - Classification)
 ### 2-1. 초기 당뇨 진단하기
 ### [[PPT]](https://docs.google.com/presentation/d/1cN377iPt-FOc8Y5E63ezkrY4on-V16tR5cA-zUfZQHA/edit?usp=sharing)
 [[Code]](https://github.com/dscoool/machinelearning11/blob/main/2.%EC%A0%84%EB%B3%B5_%EC%88%9C%EC%82%B4_%EB%AC%B4%EA%B2%8C_%EC%98%88%EC%B8%A1(%ED%95%99%EC%8A%B5%EC%A7%80).ipynb)
@@ -25,13 +24,13 @@
 [[Code]](https://github.com/dscoool/machinelearning11/blob/main/5.%ED%8E%AD%EA%B7%84_%EC%A2%85_%EB%B6%84%EB%A5%98(%ED%95%99%EC%8A%B5%EC%A7%80).ipynb)
 [[Data]](https://github.com/dscoool/machinelearning11/tree/main/02_03.%20%ED%8E%AD%EA%B7%84%20%EC%A2%85%20%EB%B6%84%EB%A5%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0)
 
-## Chapter 3
+## Chapter 03. 비지도 학습 – 군집 (Unsupervised Learning - Clustering)
 ### 3-1. 택배 시스템 최적화
 ### [[PPT]](https://docs.google.com/presentation/d/1TUobKpB5x-r6oqbk6gdnvPfwuhwC2FWqojkIwx9NDm8/edit?usp=sharing)
 [[Code]](https://github.com/dscoool/machinelearning11/blob/main/7.%ED%83%9D%EB%B0%B0_%EC%8B%9C%EC%8A%A4%ED%85%9C_%EC%B5%9C%EC%A0%81%ED%99%94(%ED%95%99%EC%8A%B5%EC%A7%80).ipynb)
 [[Data]](https://github.com/dscoool/machinelearning11/tree/main/03_01.%20%ED%83%9D%EB%B0%B0%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%B5%9C%EC%A0%81%ED%99%94%20%EB%8D%B0%EC%9D%B4%ED%84%B0)
 
-## Chapter 4
+## Chapter 4. 머신러닝 – 심화 (Advanced ML)
 
 ### 4-1. 수도권 아파트 가격 예측
 ### [[PPT]](https://docs.google.com/presentation/d/1RziQH2YslfW-J6qWsCm41DlZGeYdiOo4YoH2LvbphVw/edit?usp=sharing)
@@ -44,7 +43,8 @@
 [[Data]](https://github.com/dscoool/machinelearning11/tree/main/04_02.%20%EB%B0%B1%EC%84%9D%EA%B3%BC%20%EA%B9%80%EC%88%98%EC%98%81%EC%9D%98%20%EC%8B%9C%20%ED%95%99%EC%8A%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0)
 
 
-## Chapter 5
+## Chapter 5. 이미지 학습 – CNN (Image Recognition - Convolution Neural Network)
+
 
 ### 5-1. 김홍도와 신윤복의 화풍 분류
 ### [[PPT]](https://docs.google.com/presentation/d/1oRo3uU_b1yl-jiwPoYpjaK84X17dIZyHDAgSmTtKYiU/edit?usp=sharing) 

@@ -33,20 +33,25 @@
 ### [[PPT]](https://docs.google.com/presentation/d/1RziQH2YslfW-J6qWsCm41DlZGeYdiOo4YoH2LvbphVw/edit?usp=sharing))
 [[Code]]()
 [[Data]]()
-### 3-1. 택배 시스템 최적화
-### [[PPT]](https://docs.google.com/presentation/d/1TUobKpB5x-r6oqbk6gdnvPfwuhwC2FWqojkIwx9NDm8/edit?usp=sharing)
-[[Code]]()
-[[Data]]()
-### 3-1. 택배 시스템 최적화
-### [[PPT]](https://docs.google.com/presentation/d/1TUobKpB5x-r6oqbk6gdnvPfwuhwC2FWqojkIwx9NDm8/edit?usp=sharing)
-[[Code]]()
-[[Data]]()
-### 3-1. 택배 시스템 최적화
-### [[PPT]](https://docs.google.com/presentation/d/1TUobKpB5x-r6oqbk6gdnvPfwuhwC2FWqojkIwx9NDm8/edit?usp=sharing)
+### 4-2. 백석과 김수영의 시 학습
+### [[PPT]](https://docs.google.com/presentation/d/1yBdRNuo2d74TH9dSDDGMEKcMfkMy0k0osmJB0kCeoAE/edit?usp=sharing)
 [[Code]]()
 [[Data]]()
 
+
 ## Chapter 5
+
+### 5-1. 김홍도와 신윤복의 화풍 분류
+### [[PPT]](https://docs.google.com/presentation/d/1oRo3uU_b1yl-jiwPoYpjaK84X17dIZyHDAgSmTtKYiU/edit?usp=sharing) 
+[[Code]]()
+[[Data]]()
+
+
+### 5-2. 피부암 초기 진단
+### [[PPT]](https://docs.google.com/presentation/d/1H5WZFUrUy1FX0TozhLZvUSNlcI27ZaFdln_IxQc_t3Q/edit?usp=sharing)
+[[Code]]()
+[[Data]]()
+
 ## Chapter 6
 ## Chapter 7
 ## Chapter 8

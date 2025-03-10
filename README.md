@@ -7,7 +7,7 @@
 
 ### 1-2. 전복 순살 예측
 ### [PPT](https://docs.google.com/presentation/d/1vS9OUjskLjTPCd6fv3i17KWbR0Bv_MaS7KfctBDZisk/edit?usp=sharing)
-### [Code]()
+### [Code](https://github.com/dscoool/machinelearning11/blob/main/2.%EC%A0%84%EB%B3%B5_%EC%88%9C%EC%82%B4_%EB%AC%B4%EA%B2%8C_%EC%98%88%EC%B8%A1(%ED%95%99%EC%8A%B5%EC%A7%80).ipynb)
 ### [Data](https://github.com/dscoool/machinelearning11/tree/main/01_02.%20%EC%A0%84%EB%B3%B5%20%EC%88%9C%EC%82%B4%20%EB%AC%B4%EA%B2%8C%20%EC%98%88%EC%B8%A1%20%EB%8D%B0%EC%9D%B4%ED%84%B0)
 
 ## Chapter 2

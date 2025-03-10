@@ -15,7 +15,7 @@
 ## Chapter 2. 지도 학습 – 분류 (Supervised Learning - Classification)
 ### 2-1. 초기 당뇨 진단하기
 ### [[PPT]](https://docs.google.com/presentation/d/1cN377iPt-FOc8Y5E63ezkrY4on-V16tR5cA-zUfZQHA/edit?usp=sharing)
-[[Code]](https://github.com/dscoool/machinelearning11/blob/main/2.%EC%A0%84%EB%B3%B5_%EC%88%9C%EC%82%B4_%EB%AC%B4%EA%B2%8C_%EC%98%88%EC%B8%A1(%ED%95%99%EC%8A%B5%EC%A7%80).ipynb)
+[[Code]](https://github.com/dscoool/machinelearning11/blob/main/3.%EC%B4%88%EA%B8%B0_%EB%8B%B9%EB%87%A8_%EC%A7%84%EB%8B%A8%ED%95%98%EA%B8%B0(%ED%95%99%EC%8A%B5%EC%A7%80).ipynb)
 [[Data]](https://github.com/dscoool/machinelearning11/tree/main/02_01.%20%EC%B4%88%EA%B8%B0%20%EB%8B%B9%EB%87%A8%20%EC%A7%84%EB%8B%A8%ED%95%98%EA%B8%B0%20%EB%8D%B0%EC%9D%B4%ED%84%B0)
 
 

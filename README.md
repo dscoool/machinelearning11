@@ -30,7 +30,7 @@
 ## Chapter 4
 
 ### 4-1. 수도권 아파트 가격 예측
-### [[PPT]](https://docs.google.com/presentation/d/1RziQH2YslfW-J6qWsCm41DlZGeYdiOo4YoH2LvbphVw/edit?usp=sharing))
+### [[PPT]](https://docs.google.com/presentation/d/1RziQH2YslfW-J6qWsCm41DlZGeYdiOo4YoH2LvbphVw/edit?usp=sharing)
 [[Code]]()
 [[Data]]()
 ### 4-2. 백석과 김수영의 시 학습
